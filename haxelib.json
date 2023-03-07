@@ -1,0 +1,16 @@
+{
+  "name": "hxdiff",
+  "license": "MIT",
+  "tags": [],
+  "description": "Partial diff port",
+  "contributors": [
+    "klabz",
+    "Simn"
+  ],
+  "releasenote": "Initial release",
+  "version": "1.0.0",
+  "url": "https://github.com/kLabz/hxdiff",
+  "classPath": "src",
+  "dependencies": {
+  }
+}
